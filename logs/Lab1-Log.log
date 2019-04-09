@@ -1,0 +1,24 @@
+2019-04-09 15:21:29 INFO  PackageScanner:42 - Object scanner org.kpi.lab.lab1.Threads.PackageScannercreated
+	with path:D:\c++\JAVA\lab\lab1\src\main\java\org\kpi\lab
+	key :ьфшт
+2019-04-09 15:21:29 INFO  Application:34 - java.util.concurrent.FutureTask@43738a82[Not completed, task = org.kpi.lab.lab1.Threads.PackageScanner@7403c468]created
+2019-04-09 15:21:29 INFO  PackageScanner:78 - 	D:\c++\JAVA\lab\lab1\src\main\java\org\kpi\lab\lab1 is a derictory
+2019-04-09 15:21:29 INFO  PackageScanner:42 - Object scanner org.kpi.lab.lab1.Threads.PackageScannercreated
+	with path:D:\c++\JAVA\lab\lab1\src\main\java\org\kpi\lab\lab1
+	key :ьфшт
+2019-04-09 15:21:29 TRACE PackageScanner:96 - 
+data before :
+2019-04-09 15:21:29 TRACE PackageScanner:97 - Resul: [java.util.concurrent.FutureTask@36c8dee[Not completed, task = org.kpi.lab.lab1.Threads.PackageScanner@698c8f36]]
+2019-04-09 15:22:50 INFO  PackageScanner:42 - Object scanner org.kpi.lab.lab1.Threads.PackageScannercreated
+	with path:D:\c++\JAVA\lab\lab1\src\main\java\org\kpi\lab\lab1
+	key :main
+2019-04-09 15:22:50 INFO  Application:34 - java.util.concurrent.FutureTask@13eb8acf[Not completed, task = org.kpi.lab.lab1.Threads.PackageScanner@543c6f6d]created
+2019-04-09 15:22:50 INFO  PackageScanner:87 - 	D:\c++\JAVA\lab\lab1\src\main\java\org\kpi\lab\lab1\Application.java is a file
+2019-04-09 15:22:50 INFO  PackageScanner:87 - 	D:\c++\JAVA\lab\lab1\src\main\java\org\kpi\lab\lab1\Output.java is a file
+2019-04-09 15:22:50 INFO  PackageScanner:78 - 	D:\c++\JAVA\lab\lab1\src\main\java\org\kpi\lab\lab1\Threads is a derictory
+2019-04-09 15:22:50 INFO  PackageScanner:42 - Object scanner org.kpi.lab.lab1.Threads.PackageScannercreated
+	with path:D:\c++\JAVA\lab\lab1\src\main\java\org\kpi\lab\lab1\Threads
+	key :main
+2019-04-09 15:22:50 TRACE PackageScanner:96 - 
+data before :
+2019-04-09 15:22:50 TRACE PackageScanner:97 - Resul: [java.util.concurrent.FutureTask@3b9b407f[Not completed, task = org.kpi.lab.lab1.Threads.PackageScanner@67e121fd]]
